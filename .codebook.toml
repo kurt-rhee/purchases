@@ -1,0 +1,4 @@
+# Custom allowlist of words to ignore (case-insensitive)
+# Codebook will add words here when you select "Add to dictionary"
+# Default: []
+words = ["GOTS", "Dyper", "Haaka"]
