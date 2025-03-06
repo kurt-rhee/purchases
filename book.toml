@@ -1,0 +1,6 @@
+[book]
+authors = ["kurt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "consumerism"
