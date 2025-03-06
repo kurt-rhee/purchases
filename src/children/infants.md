@@ -7,6 +7,7 @@
 | Diapers | Dyper | (disposable) More likely to find in store   |
 | Diapers | GreenMountain Workhorse | Cloth w/ snaps |
 | Sleep Sack | Love to Dream | Makes sleeping easier |
+| Misc. | Ear Muffs | Less screaming noise when changing diapers |
 
 
 # Materials
